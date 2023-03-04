@@ -1,1 +1,1 @@
-console.log("He borrado mucho")
+console.log("He borrado")
